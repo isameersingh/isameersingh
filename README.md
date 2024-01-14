@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isameersingh
-- 👀 I’m interested in Machine Learning and Data Science 
+- 👀 I’m Machine Learning Engineer
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +91 6307235073
