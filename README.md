@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @isameersingh
-- 👀 I’m Machine Learning Engineer
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 👀CTO and Co-Founder @AutoFlow AI
 - 📫 How to reach me +91 6307235073
 
 <!---
